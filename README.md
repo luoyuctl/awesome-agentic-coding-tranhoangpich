@@ -17,6 +17,7 @@ Inspired by the structure and polish of [Awesome Claude Agents](https://github.c
 
 * [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - An agentic orchestrator for parallel coding agents that plans tasks, spawns workers, and helps automate CI fixes, merge conflicts, and code review loops.
 * [agent-rules](https://github.com/steipete/agent-rules) - A shared rules-and-knowledge repository for coding with agents such as Claude Code and Cursor.
+* [agenttrace](https://github.com/luoyuctl/agenttrace) - A local-first TUI for inspecting AI coding agent session history, comparing cost, tokens, and elapsed time, and diagnosing slow or stuck runs.
 * [agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) - A bootstrapper that turns a fresh Ubuntu VPS into a fully configured multi-agent coding environment.
 * [agents](https://github.com/wshobson/agents) - An open-source multi-agent orchestration toolkit for Claude Code workflows and intelligent automation.
 * [Aider](https://github.com/Aider-AI/aider) - A terminal-based coding agent that makes repo-aware edits, works cleanly with git, and supports iterative multi-file implementation workflows.
